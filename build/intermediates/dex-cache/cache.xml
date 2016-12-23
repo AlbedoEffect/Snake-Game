@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/d247c7e1ce33c86670bd6fdac6ce9fd6f65b365b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e151b6af4e646841988eae6066b324c97179f69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/df0832191d65e7a0f5338549d55e74f7207f608a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_a588bdc1d502cc6007938482233efe7e212e686d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/dab7d56140cf87a3f5c9e4efd854864ebc58b02f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_aa1186e10b128be8eee5840c1c2adfd3100e8eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa52b18e81a499129a981d0d8681b8b030130a6d">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_f43b66f1fd689269c9867f17e434c6fb68274a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/9ea0b75fc2326bc53bb213f96b92ebdf12f9621b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_e99e29f70d0d1fd58f38c402dbf6982d8ee4015f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/dab7d56140cf87a3f5c9e4efd854864ebc58b02f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_277447c2c4ff76892a193e3f08f4fa25c533bc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/6530b8998f41ef286590f3c97fb218d0296a1862/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_590421fa16ea182b6333d927f585fedda4c46999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/963ab1b0956f01d064f6ac632a26af4c0730a62e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_5d89d90feb072ebde0d78029d47eaa10aec03134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/963ab1b0956f01d064f6ac632a26af4c0730a62e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_15ff7fd9f5c50cacc71cb210d59a13c5ead0ed94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/7216d10264e7132067cf30094a2f34e10fa2fbe2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef0c8364efe2e1b72b3903d6ba588d6cbde9aa6f">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_70b5d2f88ac2add800c32a50a6d18e5c448c6042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/4d3992355af64b42623bc7b1d489f68e09549084/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_303f587d8200031cc48aea754009137434c69cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6699293081d8e7f3d7f9b2e6483d1edcd1931465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/8e363730e9477c0061068973fdc4002631cd810d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_06892f1d284ed80847afe7352c1a1408cd3c9621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/6530b8998f41ef286590f3c97fb218d0296a1862/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0762ba02606154345dc1ceb22827ad155652436f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/d247c7e1ce33c86670bd6fdac6ce9fd6f65b365b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_f5e26cf1588c10244ad1e87305cfb009ea288bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/18032473f372ce07054dda5b8bcc8b286af2d85b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/classes_8c88f8e7590997d5af7b0ca31f6270f13e963cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/logan.steinberg/.android/build-cache/df0832191d65e7a0f5338549d55e74f7207f608a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/logan.steinberg/@repositories/SnakeApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2fe203bacecc74adac73c3999a85ded9a3eb66b5.jar" />
+    </item>
+
+</items>
