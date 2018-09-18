@@ -1,4 +1,4 @@
-package com.example.logansteinberg.snakeapp;
+package com.example.logansteinberg.snakeapp.Views;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -7,6 +7,11 @@ import android.graphics.Paint.Style;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+
+import com.example.logansteinberg.snakeapp.EatDot;
+import com.example.logansteinberg.snakeapp.Snake.Snake;
+import com.example.logansteinberg.snakeapp.Snake.Square;
+
 import java.util.ArrayList;
 import java.util.Random;
 /**
@@ -17,8 +22,6 @@ public class CustomGameView extends View {
 
 	private float boardWidth;
 	private float boardLength;
-	private ArrayList<Snake> players;
-	EatDot eatDot = new EatDot();
 
 	public static final int SQUARE_LEN = 75;
 	public static final int SQUARE_DIST = 85;
@@ -29,12 +32,10 @@ public class CustomGameView extends View {
 
 	public CustomGameView(final Context context) {
 		super(context);
-		players = new ArrayList<>();
 	}
 
 	public CustomGameView(final Context context, @Nullable final AttributeSet attrs) {
 		super(context, attrs);
-		players = new ArrayList<>();
 	}
 
 	public void setPlayers(ArrayList<Snake> players){
@@ -47,13 +48,11 @@ public class CustomGameView extends View {
 
 	public CustomGameView(final Context context, @Nullable final AttributeSet attrs, final int defStyleAttr) {
 		super(context, attrs, defStyleAttr);
-		players = new ArrayList<>();
 	}
 
 	public CustomGameView(final Context context, @Nullable final AttributeSet attrs, final int defStyleAttr,
 		final int defStyleRes) {
 		super(context, attrs, defStyleAttr, defStyleRes);
-		players = new ArrayList<>();
 	}
 
 	@Override
@@ -62,6 +61,7 @@ public class CustomGameView extends View {
 		initialBoardDraw(canvas);
 		drawDot(canvas);
 		drawPlayers(canvas);
+		ArrayList<Snake> players;
 		for(Snake snake : players){
 			if (snake.body.size() == 0) snake.setHeadSquare(canvas.getWidth()/2,canvas.getHeight()/2);
 		}
